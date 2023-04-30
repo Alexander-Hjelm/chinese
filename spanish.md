@@ -16,3 +16,5 @@
 | Shotgun | escopeta |  |
 | Superman | El Superhombre |  |
 | Batman | El hombre murciélago |  |
+| The rat | la rata |  |
+| The mouse | el ratón |  |
