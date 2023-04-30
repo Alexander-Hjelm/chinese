@@ -34,7 +34,7 @@
 
 | Chinese | Pinyin | English |
 |--------------|-----------|------------|
-| 人 | ren | man |
+| 人 | ren | man, person, guy |
 | 女孩 | nv hai | girl |
 | 宝贝 | bao bei | baby |
 
@@ -116,7 +116,7 @@
 | 猫 | mao | cat |
 | 他 | ta | he/she/him/her |
 | 吗? | ma | question mark. Turns a statement into a question |
-| 知道 | jrh dao | to know |
+| 知道 | zhi dao | to know |
 | 吃 | chi | to eat |
 | 什么 | shen me | what |
 | 你好吗? | ni hao ma | how are you? |
@@ -152,5 +152,9 @@
 | 现在 | xian zai | now |
 | 店 | dian | shop |
 | 新 | xin | new |
+| 了 | le | [verb]了 = Past tense modifier (I just Xd, I have Xd) |
 
-Count: 100
+| 马 | ma | Horse |
+| 桌子 | zhuo zi | table |
+
+Count: 103
