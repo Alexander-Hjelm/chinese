@@ -18,3 +18,8 @@
 | Batman | El hombre murciélago |  |
 | The rat | la rata |  |
 | The mouse | el ratón |  |
+| After the fire | despues del fuego |  |
+| This is how it looks like in my house | Así es que ve en mí casa |  |
+| There is a statue | hay una estatua |  |
+| A dwarf | un enano |  |
+| VR glasses | Auriculares Vr |  |
