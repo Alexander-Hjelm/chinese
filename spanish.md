@@ -23,3 +23,6 @@
 | There is a statue | hay una estatua |  |
 | A dwarf | un enano |  |
 | VR glasses | Auriculares Vr |  |
+| the weather | el clima |  |
+| the weather | el clima |  |
+| I am depressed | estoy deprimido |  |
