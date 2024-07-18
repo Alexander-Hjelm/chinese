@@ -1,0 +1,1 @@
+D:\dev\flashcards\prep-text-to-speech.ps1 -inputFilePath D:\language-practice\spanish.md -outputFilePath D:\language-practice\spanish-text-to-speech-scratchpad.md
